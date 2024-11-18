@@ -36,10 +36,10 @@ El sistema simula un sismógrafo que captura aceleraciones en los ejes X, Y y Z,
 
 ```plaintext
 📂 Sismografo-MPU6050
-├── 📁 Arduino
-│   ├── Sismografo.ino        # Código para Arduino
-├── 📁 Processing
-│   ├── Sismografo.pde        # Sketch de Processing
+├── 📁 arduino
+│   ├── arduino.ino        # Código para Arduino
+├── 📁 processing
+│   ├── processing.pde        # Sketch de Processing
 ├── 📄 README.md              # Documentación del proyecto
 ```
 --- 
@@ -63,8 +63,8 @@ El sistema simula un sismógrafo que captura aceleraciones en los ejes X, Y y Z,
 3. Descarga e instala [Processing](https://processing.org/download).
 
 ### 3️⃣ Carga del Código
-1. Sube el sketch `Sismografo.ino` al Arduino desde el Arduino IDE. 🚀
-2. Abre el sketch `Sismografo.pde` en Processing y ejecuta el programa.
+1. Sube el sketch `arduino.ino` al Arduino desde el Arduino IDE. 🚀
+2. Abre el sketch `processing.pde` en Processing y ejecuta el programa.
 
 ---
 
@@ -88,7 +88,7 @@ El sistema simula un sismógrafo que captura aceleraciones en los ejes X, Y y Z,
 
 🎥 *Gráfica en tiempo real de los ejes X, Y y Z:*
 
-![Ejemplo de Visualización](https://via.placeholder.com/600x300.png)
+🔗 **Ver el video de demostración en YouTube:** [https://www.youtube.com/watch?v=EyGqb8M6Jcw](https://www.youtube.com/watch?v=EyGqb8M6Jcw)
 
 ---
 

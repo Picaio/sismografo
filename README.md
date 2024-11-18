@@ -41,6 +41,8 @@ El sistema simula un sismógrafo que captura aceleraciones en los ejes X, Y y Z,
 ├── 📁 Processing
 │   ├── Sismografo.pde        # Sketch de Processing
 ├── 📄 README.md              # Documentación del proyecto
+```
+--- 
 
 ## 🚀 Configuración e Instalación
 
@@ -103,3 +105,4 @@ Este proyecto está bajo la Licencia MIT. Puedes usarlo libremente para fines ed
 ---
 
 ¡Gracias por tu interés en este proyecto! Si te gusta, no olvides darle una ⭐ en GitHub. 🙌
+
